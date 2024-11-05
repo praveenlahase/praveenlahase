@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Praveen Lahase.
-- 👀 I’m interested in Fullstack web development (Java, Python, HTML, CSS, SpringBoot, Django, MySQL, PostgreSQL).
+- 👀 I’m interested in Fullstack web development (Java, Python, HTML, CSS, Javascriot, SpringBoot, Django, MySQL, PostgreSQL).
 - 🌱 I’m currently working as Assistant Manager.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedIn: www.linkedin.com/in/praveenlahase
